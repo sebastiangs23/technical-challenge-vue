@@ -7,3 +7,11 @@ Este documento describe los pasos necesarios para configurar y ejecutar el proye
 1. Navega hasta la carpeta del proyecto:
    ```bash
    cd technical-challenge-vue
+
+2. Dentro ejecutar:
+   ```bash
+   npm install
+
+3. Luego para levantar el proyecto usar:
+    ```bash
+   npm run dev
