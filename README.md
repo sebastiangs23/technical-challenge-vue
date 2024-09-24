@@ -4,7 +4,7 @@
 Este documento describe los pasos necesarios para configurar y ejecutar el proyecto "InLearning".
 
 ## 📁 Paso 1: Instalación
-1. Asegurate de estar en la carpeta technical-challenge-vue:
+1. Asegurate de estar parado dentro de la carpeta correcta 'technical-challenge-vue', cuidado confundirse con el nombre del repositorio:
    ```bash
    cd technical-challenge-vue
 
